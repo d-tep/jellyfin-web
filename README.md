@@ -1,3 +1,10 @@
+## Unofficial Samsung Tizen guide fix
+
+This branch contains a community guide scrolling fix that is not merged into
+upstream Jellyfin. See [the Tizen fix guide](TIZEN-GUIDE-FIX.md) for cloning,
+testing, building, and installing it. It is source code, not a ready-to-install
+TV package. The original Jellyfin Web README follows below.
+
 <h1 align="center">Jellyfin Web</h1>
 <h3 align="center">Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
